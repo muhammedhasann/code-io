@@ -1,88 +1,92 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/frontend.jpg',
+    title: ' Front End Developer',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/backend.jpg',
+    title: 'Back End Developer',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/fullstack.jpg',
+    title: 'Full Stack Developer',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: '/DEVOPS.jpg',
+    title: 'DevOps Developer',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: '/ai.jpg',
+    title: 'AI Developer',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a world that suits your interests for example: Front End Developer ',
+  'Code at least one hour every single day for 100 days straight ',
+  'Share your progress with the community such as: Github, LinkedIn, Twitter, etc.',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'A new Community',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'A community of developers who are ready to learn and share their knowledge',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: ' A new way to learn',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'A new way to learn and share knowledge with other developers',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
-    subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+    title: 'Day 21 - 100: The Code.io Journey',
+    subtitle: 'DEsigned this website using Next.js and Tailwind CSS',
+    url: 'https://www.github.com/muhammedhasann/code.io',
+
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Day 20 - 100: The Code.io Journey ',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+    url: 'https://www.github.com/muhammedhasann/code.io',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Day 19 - 100: The Code.io Journey',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+    url: 'https://www.github.com/muhammedhasann/code.io',
   },
 ];
 
 export const socials = [
   {
     name: 'twitter',
-    url: '/twitter.svg',
+    imgUrl: '/twitter.svg',
+    url: 'https://twitter.com/Muhammed__Hasan',
   },
   {
     name: 'linkedin',
-    url: '/linkedin.svg',
+    imgUrl: '/linkedin.svg',
+    url: 'https://www.linkedin.com/in/muhammedhaan/',
+
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
-  },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'github',
+    imgUrl: '/github.svg',
+    url: 'https://github.com/muhammedhasann',
+
   },
 ];

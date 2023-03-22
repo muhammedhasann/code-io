@@ -27,14 +27,16 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
         <div
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
-          <img
-            src="/headset.svg"
-            alt="headset"
-            className="w-1/2 h-1/2 object-contain"
-          />
+          <a href="https://roadmap.sh/">
+            <img
+              src="/headset.svg"
+              alt="headset"
+              className="w-100% h-100% object-contain"
+            />
+          </a>
         </div>
         <p className="font-normal text-[16px] leading-[20.16px] text-white uppercase">
-          Enter Metaverse
+          Enter World
         </p>
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
           {title}
