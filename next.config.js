@@ -7,15 +7,15 @@ let basePath = '/';
 if (isGithubActions) {
   const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '');
 
-  assetPrefix = `/${github.com/muhammedhasann/code-io}/`;
-  basePath = `/${github.com/muhammedhasann/code-io}`;
+  assetPrefix = `/${repo}/`;
+  basePath = `/${repo}`;
 }
 
 module.exports = {
-  assetPrefix: assetPrefix',
+  assetPrefix: assetPrefix,
   basePath: basePath,
   images: {
     loader: 'imgix',
-    path: 'the "domain" of your Imigix source',
+    path: 'code-io.imgix.net',
   },
 };
