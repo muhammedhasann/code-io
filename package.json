@@ -1,8 +1,11 @@
 {
+  "homepage": "https://muhammedhasann.github.io/code.io/",
   "name": "Code.io",
   "version": "0.1.0",
   "private": false,
   "scripts": {
+    "predeploy": "next build && next export",
+    "deploy": "gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
