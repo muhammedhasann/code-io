@@ -1,10 +1,10 @@
 {
-  "homepage": "https://muhammedhasann.github.io/code.io/",
+  "homepage": "https://github.com/muhammedhasann/code.io",
   "name": "Code.io",
   "version": "0.1.0",
   "private": false,
   "scripts": {
-    
+    "deploy": "npm run build && gh-pages -d build",
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
