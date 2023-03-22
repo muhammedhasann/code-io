@@ -1,14 +1,13 @@
 import { Footer, Navbar } from '../components';
-import { About, Explore, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
+import { About, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
 
-const Home = () => (
+const Page = () => (
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
     <Hero />
     <div className="relative">
       <About />
       <div className="gradient-03 z-0" />
-      <Explore />
     </div>
     <div className="relative">
       <GetStarted />
@@ -24,4 +23,4 @@ const Home = () => (
   </div>
 );
 
-export default Home;
+export default Page;

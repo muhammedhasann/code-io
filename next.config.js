@@ -4,7 +4,4 @@ const nextConfig = {
     appDir: false,
   },
 };
-module.exports = {
-  basePath: 'https://muhammedhasann.github.io/code.io/',
-};
 module.exports = nextConfig;
