@@ -22,15 +22,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Welcome</span> to Code.io , the website where I document my progress and learning in coding. My name is Muhammed, and I’m a Self-taught programmer who loves to code.{' '}
-        <span className="font-extrabold text-white">
-          I started this website
-        </span>{' '}
-        as part of the 100 days of code challenge,where I commit to code for at least an hour every day for 100 days.{' '}
-        <span className="font-extrabold text-white">On this website,</span> you’ll find my daily logs, projects, challenges, and reflections on what I have learned so far{' '}
-        <span className="font-extrabold text-white">My goal </span> with this website is to share my coding journey  with others who are interested in learning how to code or improving their coding skills.
-        <span className="font-extrabold text-white">I hope </span>you’ll find some inspiration and motivation from my posts and join me in this challenge.
-        <span className="font-extrabold text-white">Thank you for visiting Codi.io.</span> Let’s code together!
+        <span className="font-extrabold text-white">“Welcome to Code.io! I’m Muhammed,a self-taught programmer documenting my progress and learning through the 100 days of code challenge. Join me on my journey as I share daily logs, projects, challenges, and reflections. Let’s code together!” </span>{' '}
       </motion.p>
 
       <motion.img

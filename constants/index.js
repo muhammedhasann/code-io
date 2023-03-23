@@ -46,27 +46,30 @@ export const newFeatures = [
         'A new way to learn and share knowledge with other developers',
   },
 ];
+// add Twitter here
 
+//
 export const insights = [
   {
     imgUrl: '/planet-06.png',
     title: 'Day 21 - 100: The Code.io Journey',
-    subtitle: 'DEsigned this website using Next.js and Tailwind CSS',
-    url: 'https://www.github.com/muhammedhasann/code.io',
+    subtitle: 'Designed this website using Next.js and Tailwind CSS',
+    url: 'https://www.github.com/muhammedhasann/code-io',
 
   },
+
   {
     imgUrl: '/planet-07.png',
     title: 'Day 20 - 100: The Code.io Journey ',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
-    url: 'https://www.github.com/muhammedhasann/code.io',
+        'Practicing JavaScript',
+    url: 'https://www.github.com/muhammedhasann/code-io',
   },
   {
     imgUrl: '/planet-08.png',
     title: 'Day 19 - 100: The Code.io Journey',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Went dipper in function and object in Javasdcpt and have searched for open source projects.',
     url: 'https://www.github.com/muhammedhasann/code.io',
   },
 ];
