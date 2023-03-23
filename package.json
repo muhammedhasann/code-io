@@ -4,7 +4,8 @@
   "version": "0.1.0",
   "private": false,
   "scripts": {
-    "dev": "next dev",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "next build",
     "export": "next export",
     "start": "next start",
