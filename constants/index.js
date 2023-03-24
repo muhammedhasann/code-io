@@ -45,11 +45,19 @@ export const newFeatures = [
     subtitle:
         'A new way to learn and share knowledge with other developers',
   },
+// This code does something.
 ];
 // add Twitter here
 
 //
 export const insights = [
+  {
+    imgUrl: '/planet-08.png',
+    title: 'Day 22 - 100: The Code.io Journey',
+    subtitle: 'Created a youtbe vido for hosting react website on github pages with custom domain from dot tech domain',
+    url: 'https://youtu.be/OWRiPQdLbDo',
+
+  },
   {
     imgUrl: '/planet-06.png',
     title: 'Day 21 - 100: The Code.io Journey',
