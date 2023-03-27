@@ -52,6 +52,13 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-07.png',
+    title: 'Day 24 - 100: The Code.io Journey',
+    subtitle: ' spent over 10 hours coding today, practicing JavaScript, and starting to solve the top 100 questions on LeetCode. it seems I am going to fail a lot this semester in college.',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1640421466645643266?s=20',
+
+  },
+  {
     imgUrl: '/planet-06.png',
     title: 'Day 23 - 100: The Code.io Journey',
     subtitle: 'Learned about the power of #JavaScript array methods like map, find, and filter! These methods help to manipulate arrays with ease and efficiency. ',
