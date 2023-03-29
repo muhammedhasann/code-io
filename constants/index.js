@@ -52,6 +52,13 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-06.png',
+    title: 'Day 26 - 100: The Code.io Journey',
+    subtitle: ': Struggled with a LeetCode question today and realized I need to brush up on my JavaScript and Data Structures & Algorithms knowledge. So I restarted my JS studies and watched some videos on DS&A. #NeverStopLearning” ',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1641171412672040960?s=20',
+
+  },
+  {
     imgUrl: '/planet-08.png',
     title: 'Day 25 - 100: The Code.io Journey',
     subtitle: ' All along the journey, I thought I knew #JavaScript, but then I realized what knowing is #HTML and #CSS. Learned about JS string methods and solved my first #LeetCode question! ',
