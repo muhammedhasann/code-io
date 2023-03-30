@@ -52,6 +52,13 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-07.png',
+    title: 'Day 27 - 100: The Code.io Journey',
+    subtitle: ' Practiced the spread operator (...) in JS to expand arrays and objects. Very useful and neat. #javascript .',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1641531971699351565?s=20',
+
+  },
+  {
     imgUrl: '/planet-06.png',
     title: 'Day 26 - 100: The Code.io Journey',
     subtitle: ': Struggled with a LeetCode question today and realized I need to brush up on my JavaScript and Data Structures & Algorithms knowledge. So I restarted my JS studies and watched some videos on DS&A. #NeverStopLearning” ',
