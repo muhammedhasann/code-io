@@ -52,6 +52,12 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-08.png',
+    title: 'Day 28 - 100: The Code.io Journey',
+    subtitle: ' Day 28 of #100DaysOfCode Learned about object-oriented programming in JavaScript and delved deeper into classes.  ',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
+  },
+  {
     imgUrl: '/planet-07.png',
     title: 'Day 27 - 100: The Code.io Journey',
     subtitle: ' Practiced the spread operator (...) in JS to expand arrays and objects. Very useful and neat. #javascript .',
