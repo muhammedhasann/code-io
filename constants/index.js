@@ -53,9 +53,9 @@ export const insights = [
   {
     imgUrl: '/planet-06.png',
     title: 'Day 29 - 100: The Code.io Journey',
-    subtitle: ': SDay 29 of #100DaysOfCodeLearned about set, get and static methods in JavaScript! #coding #javascript 
- ',
+    subtitle: ': SDay 29 of #100DaysOfCodeLearned about set, get and static methods in JavaScript! #coding #javascript ',
     url: 'https://twitter.com/Muhammed__Hasan/status/1641171412672040960?s=20',
+  },
   {
     imgUrl: '/planet-08.png',
     title: 'Day 28 - 100: The Code.io Journey',
