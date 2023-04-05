@@ -50,6 +50,14 @@ export const newFeatures = [
 // add Twitter here
 //
 export const insights = [
+
+  {
+    imgUrl: '/planet-07.png',
+    title: 'Day 27 - 100: The Code.io Journey',
+    subtitle: ' Learned about Prototypal Inheritance and constructor functions in JavaScript.  .',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1643699247521357834?s=20',
+
+  },
   {
     imgUrl: '/planet-06.png',
     title: 'Day 29 - 100: The Code.io Journey',
