@@ -48,12 +48,19 @@ export const newFeatures = [
 // This code does something.
 ];
 // add Twitter here
+
 //
 export const insights = [
+    {
+    imgUrl: '/planet-08.png',
+    title: 'Day 32 - 100: The Code.io Journey',
+    subtitle: '  Practiced Prototypal Inheritance and constructor functions in JS. Also learned about stack and queue in DS&A. #coding #javascript #datastructures ',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
+  },
 
   {
     imgUrl: '/planet-07.png',
-    title: 'Day 27 - 100: The Code.io Journey',
+    title: 'Day 30 - 100: The Code.io Journey',
     subtitle: ' Learned about Prototypal Inheritance and constructor functions in JavaScript.  .',
     url: 'https://twitter.com/Muhammed__Hasan/status/1643699247521357834?s=20',
 
