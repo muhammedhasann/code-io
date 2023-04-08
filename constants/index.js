@@ -51,7 +51,14 @@ export const newFeatures = [
 
 //
 export const insights = [
-    {
+  {
+    imgUrl: '/planet-07.png',
+    title: 'Day 33 - 100: The Code.io Journey',
+    subtitle: ' Day 33 of #100DaysOfCode: Today I delved into Express.js and sharpened my JavaScript skills by building a fun Where’s Waldo? game.',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1640421466645643266?s=20',
+
+  },
+  {
     imgUrl: '/planet-08.png',
     title: 'Day 32 - 100: The Code.io Journey',
     subtitle: '  Practiced Prototypal Inheritance and constructor functions in JS. Also learned about stack and queue in DS&A. #coding #javascript #datastructures ',
@@ -162,3 +169,4 @@ export const socials = [
 
   },
 ];
+
