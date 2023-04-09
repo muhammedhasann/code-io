@@ -52,6 +52,12 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-06.png',
+    title: 'Day 34 - 100: The Code.io Journey',
+    subtitle: ': “Day 34 of #100DaysOfCode:I tried to solve an internship task for IoT projects using C for the first time.once you learn one language, the rest have the same logic but different syntaxLearned a lot through courses and hands-on experience. #C #IoT #learningbydoing”',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1641171412672040960?s=20',
+  },
+  {
     imgUrl: '/planet-07.png',
     title: 'Day 33 - 100: The Code.io Journey',
     subtitle: ' Day 33 of #100DaysOfCode: Today I delved into Express.js and sharpened my JavaScript skills by building a fun Where’s Waldo? game.',
