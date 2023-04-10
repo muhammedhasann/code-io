@@ -52,6 +52,12 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-08.png',
+    title: 'Day 35 - 100: The Code.io Journey',
+    subtitle: '  Day 35 of #100DaysOfCode Progressed in Express.js but exams will limit my time for a while. Learning useful subjects like numerical methods for algorithms and problem-solving. ',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
+  },
+  {
     imgUrl: '/planet-06.png',
     title: 'Day 34 - 100: The Code.io Journey',
     subtitle: ': “Day 34 of #100DaysOfCode:I tried to solve an internship task for IoT projects using C for the first time.once you learn one language, the rest have the same logic but different syntaxLearned a lot through courses and hands-on experience. #C #IoT #learningbydoing”',
