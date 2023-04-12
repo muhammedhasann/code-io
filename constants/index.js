@@ -52,6 +52,13 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-07.png',
+    title: 'Day 36 - 100: The Code.io Journey',
+    subtitle: ' Day 36 of #100DaysOfCode Learned about HTTP and APIs. Started working with REST APIs and playing around with Postman. Exciting stuff!',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1646241673448398850?s=20',
+
+  },
+  {
     imgUrl: '/planet-08.png',
     title: 'Day 35 - 100: The Code.io Journey',
     subtitle: '  Day 35 of #100DaysOfCode Progressed in Express.js but exams will limit my time for a while. Learning useful subjects like numerical methods for algorithms and problem-solving. ',
