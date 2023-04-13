@@ -1,8 +1,8 @@
 # Code.io
 
 Welcome to Code.io, a website dedicated to documenting my progress and learning in coding. My name is Muhammed and I'm a self-taught programmer with a passion for coding.
+![Web capture_12-4-2023_23824_cerulean-tartufo-670f20 netlify app](https://user-images.githubusercontent.com/87802950/231572846-7646ef38-0a84-4232-86a0-7f76e3fedb04.jpeg)
 
-![Code.io Logo](https://via.placeholder.com/150)
 
 ## About
 
