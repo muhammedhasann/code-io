@@ -53,7 +53,13 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-08.png',
-    title: 'Day 36 - 100: The Code.io Journey',
+    title: 'Day 38 - 100: The Code.io Journey',
+    subtitle: 'Day 38 of #100DaysOfCode: Finished the Postman API Fundamentals Student Expert certification! Practicing with APIs this way is amazing. Loving it and looking forward to learning more about APIs and Postman. #Postman #APIs ',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
+  },
+  {
+    imgUrl: '/planet-08.png',
+    title: 'Day 37 - 100: The Code.io Journey',
     subtitle: 'Day 37 of #100DaysOfCode Practicing more about API and studying for my material science exam',
     url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
   },
