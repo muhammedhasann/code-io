@@ -52,13 +52,19 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-07.png',
+    title: 'Day 39 - 100: The Code.io Journey',
+    subtitle: ': Day 39 of #100DaysOfCodeCompleted the internship IoT task using C and a flow chart. Enjoyed learning about the IoT world and sensors. Got some C skills.  Installed autogpt but it didn’t work. No idea why',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1641171412672040960?s=20',
+  },
+  {
     imgUrl: '/planet-08.png',
     title: 'Day 38 - 100: The Code.io Journey',
     subtitle: 'Day 38 of #100DaysOfCode: Finished the Postman API Fundamentals Student Expert certification! Practicing with APIs this way is amazing. Loving it and looking forward to learning more about APIs and Postman. #Postman #APIs ',
     url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: '/planet-06.png',
     title: 'Day 37 - 100: The Code.io Journey',
     subtitle: 'Day 37 of #100DaysOfCode Practicing more about API and studying for my material science exam',
     url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
