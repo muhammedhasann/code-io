@@ -52,6 +52,12 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-06.png',
+    title: 'Day 41 - 100: The Code.io Journey',
+    subtitle: 'Day 41 of #100DaysOfCode Just started diving into algorithmic specialization from Stanford on Coursera! Excited to level up my skills and overcome my coding challenges. #NeverStopLearning #AlgorithmicSpecialization #Coursera',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
+  },
+  {
     imgUrl: '/planet-07.png',
     title: 'Day 39 - 100: The Code.io Journey',
     subtitle: ': Day 39 of #100DaysOfCodeCompleted the internship IoT task using C and a flow chart. Enjoyed learning about the IoT world and sensors. Got some C skills.  Installed autogpt but it didn’t work. No idea why',
