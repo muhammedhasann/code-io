@@ -52,6 +52,12 @@ export const newFeatures = [
 //
 export const insights = [
   {
+    imgUrl: '/planet-08.png',
+    title: 'Day 43 - 100: The Code.io Journey',
+    subtitle: 'Day 43 of #100DaysOfCode I practiced MySQL and learned more about database concepts and queries.',
+    url: 'https://twitter.com/Muhammed__Hasan/status/1642263608552726531?s=20',
+  },
+  {
     imgUrl: '/planet-06.png',
     title: 'Day 41 - 100: The Code.io Journey',
     subtitle: 'Day 41 of #100DaysOfCode Just started diving into algorithmic specialization from Stanford on Coursera! Excited to level up my skills and overcome my coding challenges. #NeverStopLearning #AlgorithmicSpecialization #Coursera',
